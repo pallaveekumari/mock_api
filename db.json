@@ -1,0 +1,18 @@
+{
+    "user": [
+      {
+        "Avatar URL": "https://i.pravatar.cc/150?img=23",
+        "Full Name": "abcd",
+        "Email": "a@gmail.com",
+        "Password": "abc"
+       
+      }
+    ],
+    "posts":[
+      {
+          "text":"",
+          "gif_url":""
+      }
+      
+    ]
+  }
